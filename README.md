@@ -6,8 +6,8 @@ A tool for classifying the likelihood of customers churning (canceling their sub
 
 <br>
 
-- Using datasets from [kaggle](https://www.kaggle.com/datasets/dev0914sharma/customer-clustering?select=segmentation+data.csv)
-- For the complete code please check [this file](https://github.com/MaruliHTGL/Clustering-and-Multiclass-Classification-Customer-Segmentation/blob/bb1a96af1d1d961cf6005e587fc5ed224ebbaca0/Clustering%20and%20Multiclass%20Classification.ipynb)
+- Using datasets from [this file](https://github.com/MaruliHTGL/Binary-Classification-Churn-Prediction/blob/dc09424289ac90656e59d5f6da1e4d17cd80fad7/ds_project4_customer_churn_data.csv)
+- For the complete code please check [this file](https://github.com/MaruliHTGL/Binary-Classification-Churn-Prediction/blob/dc09424289ac90656e59d5f6da1e4d17cd80fad7/Churn%20Prediction.ipynb)
 - To test the model please visit [this link](https://churncustomerprediction.streamlit.app/)
 
 <br>
