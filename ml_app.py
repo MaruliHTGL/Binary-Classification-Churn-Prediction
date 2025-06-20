@@ -195,5 +195,5 @@ def run_ml_app():
         st.write("This customer will not renew their subscription. Take further action!")
     else:
         st.success("Not Churn")
-        st.write("This customer will continue their subscription.")
+        st.write("This customer will renew their subscription.")
 
